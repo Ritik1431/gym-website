@@ -7,7 +7,7 @@ function Offer() {
                 <h1> A Big <span>OFFER</span>FOR THIS SUMMER</h1>
                 <p className='details'>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
                 <div className='pr-btns'>
-                    <a href='#' className='pr-btn'>JOIN NOW</a>
+                    <a href='#offer' className='pr-btn'>JOIN NOW</a>
                 </div>
             </div>
         </div>

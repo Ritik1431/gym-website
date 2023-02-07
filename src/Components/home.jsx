@@ -8,7 +8,7 @@ import React from 'react'
                 <h1><span>FITNESS</span>WITH US</h1>
                 <p className='details'>Buils Your Body And Fitness With Professional Touch</p>
                 <div className='header-btns'>
-                    <a href='#' className='header-btn'>JOIN US</a>
+                    <a href='#home' className='header-btn'>JOIN US</a>
                 </div>
             </div>
         </div>
