@@ -27,7 +27,7 @@ export default function Navbar() {
                   <li><Link to="features" smooth={true} duration={1000}>Features</Link></li>
                   <li><Link to="presentaion" smooth={true} duration={1000}>Offer</Link></li>
                   <li><Link to="about" smooth={true} duration={1000}>About</Link></li>
-                  <li><Link to="contact" smooth={true} duration={1000}>Contect</Link></li>
+                  <li><Link to="contact" smooth={true} duration={1000}>Contact Us</Link></li>
               </ul>
 
         </nav>

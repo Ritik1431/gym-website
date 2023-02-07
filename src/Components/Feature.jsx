@@ -7,7 +7,7 @@ import figure2 from '../images/2.svg';
 function Feature() {
     return (
         <div id='features'>
-            <h1>FATURES</h1>
+            <h1>FEATURES</h1>
             <div className='a-container'>
                 <Featurebox image={figure1} title="WeightLifting"/>
                 <Featurebox image={figure2} title="Specific Muscle"/>

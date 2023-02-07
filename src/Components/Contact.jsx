@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Contect() {
+function Contact() {
     return (
         <div id='contact'>
             <h1>CONTACT US</h1>
@@ -14,4 +14,4 @@ function Contect() {
     )
 }
 
-export default Contect
+export default Contact

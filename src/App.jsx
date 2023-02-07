@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import React from 'react';
 import About from './Components/About';
-import Contect from './Components/Contect';
+import Contact from './Components/Contact';
 import Feature from './Components/Feature';
 import Header from './Components/home';
 import Navbar from './Components/Navbar';
@@ -14,7 +14,7 @@ function App() {
       <Feature />
       <Offer />
       <About />
-      <Contect />
+      <Contact />
     
     </div>
   );
