@@ -16,7 +16,6 @@ function Contact() {
             <MdEmail/>
             <BsWhatsapp/>
             <BsLinkedin/>
-            <BsLinkedin/>
             </div>        
         </div>
     )

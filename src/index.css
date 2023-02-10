@@ -665,6 +665,10 @@ nav .menu-btn,
     display: block;
   }
 }
+.contact-icons{
+  color: #fff;
+  font-size: 4rem;
+}
 @media (max-width: 400px) {
   .a-box {
     width: 100%;
