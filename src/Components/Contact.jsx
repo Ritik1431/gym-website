@@ -1,5 +1,7 @@
 import React from 'react'
-
+import {MdEmail} from 'react-icons/md'
+import {BsWhatsapp} from 'react-icons/bs'
+import {BsLinkedin} from 'react-icons/bs'
 function Contact() {
     return (
         <div id='contact'>
@@ -9,7 +11,13 @@ function Contact() {
             <input type='email' placeholder="Email" required />
             <textarea placeholder='Write Here......' />
             <input type='submit' value='send' />
-            </form>            
+            </form>    
+            <div className="contact-icons">
+            <MdEmail/>
+            <BsWhatsapp/>
+            <BsLinkedin/>
+            <BsLinkedin/>
+            </div>        
         </div>
     )
 }
